@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin: 20px;
+    padding-top: 20px;
+}
+
+p{
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
